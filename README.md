@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Unity and Unreal Engine**
 
-- 👨‍💻 All of my projects are available in [my portfolio](https://www.notion.so/Aoi-s-Portfolio-7e8fea9e239a43aeb53c665456969954)
+- 👨‍💻 All of my projects are available in [my portfolio](https://pine-buffet-8f3.notion.site/Portfolio-f69f580514ad4dedb2e4facbbf205a32?pvs=4)
 
 - 📫 How to reach me **aoiinoue0528@gmail.com**
 
-- 📄 Know about my experiences [here](https://www.notion.so/Resume-Draft-8beb7ee958994ed38e2f443ca274e740)
+- 📄 Know about my experiences [here](https://pine-buffet-8f3.notion.site/Experiences-d28aa55fd09948f49dbe3b510ede66a7?pvs=4)
 
 - ⚡ Fun fact **I can edit videos/images, 3D model, and fabricate car parts**
 
